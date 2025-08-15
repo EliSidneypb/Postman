@@ -2,6 +2,20 @@
 
 ## 🎯 Testes de API com Postman e ServeRest
 
+- **Introducao/**
+  - [🔗 Apresentação do projeto](https://www.youtube.com/watch?v=eoCzjopsUoE)
+- **Serverest/**
+  - [🔗 Rota Login (Local)](https://www.youtube.com/watch?v=0_yl1yZts1Y)
+  - [🔗 Usando baseUrl](https://www.youtube.com/watch?v=giwWS7E493I)
+  - [🔗 Testes Variados - Rota Login](https://www.youtube.com/watch?v=E6Khs1VNomY)
+- **Rotas/**
+  - [🔗 Login e Usuários - Parte 1](https://www.youtube.com/watch?v=NNFEM741qw0)
+  - [🔗 Login e Usuários - Parte 2](https://www.youtube.com/watch?v=RGbr76DwhVo)
+ - **Fluxo/**
+  - [🔗 Login - Usuários - Produtos - carrinhos - Parte 1](https://www.youtube.com/watch?v=QDy8ZcfStZ8)
+  - [🔗 Login - Usuários - Produtos - carrinhos - Parte 2](https://www.youtube.com/watch?v=HNZEo0Q1Psk)
+  - 
+
 ### 🚀 Sobre
 Projeto desenvolvido para estudo e prática de testes de API utilizando Postman com a API ServeRest. Inclui fluxos de cadastro de usuários, login, listagem de produtos e carrinhos, simulando interações típicas de aplicações REST. Ideal para iniciantes e intermediários aprenderem sobre requisições HTTP, validações e automação de testes.
 
