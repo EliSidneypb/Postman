@@ -49,7 +49,7 @@ Em seguida:
 3. Execute as requisições individualmente ou em fluxo para testar os endpoints.
 
 ### 🧩 Badges de Ferramentas
-*(adicione badges conforme necessário, ex.: Build, Version, License)*
+*()*
 
 
 [🔙 Voltar para o Treinamento](https://github.com/EliSidneypb/Treinamento)
