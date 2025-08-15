@@ -14,7 +14,7 @@
  - **Fluxo/**
   - [🔗 Login - Usuários - Produtos - carrinhos - Parte 1](https://www.youtube.com/watch?v=QDy8ZcfStZ8)
   - [🔗 Login - Usuários - Produtos - carrinhos - Parte 2](https://www.youtube.com/watch?v=HNZEo0Q1Psk)
-  - 
+  - Continua...logo logo
 
 ### 🚀 Sobre
 Projeto desenvolvido para estudo e prática de testes de API utilizando Postman com a API ServeRest. Inclui fluxos de cadastro de usuários, login, listagem de produtos e carrinhos, simulando interações típicas de aplicações REST. Ideal para iniciantes e intermediários aprenderem sobre requisições HTTP, validações e automação de testes.
@@ -51,7 +51,7 @@ Em seguida:
 ### 🧩 Badges de Ferramentas
 *(adicione badges conforme necessário, ex.: Build, Version, License)*
 
-### 🔙 Voltar para o Treinamento
+
 [🔙 Voltar para o Treinamento](https://github.com/EliSidneypb/Treinamento)
 
 ### 🤝 Colabore
